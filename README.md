@@ -1,5 +1,10 @@
 # Zomato-Review-Sentiment-Analysis
-Sentiment Analysis of Zomato restaurant reviews using NLP and Machine Learning.
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
+![NLP](https://img.shields.io/badge/Category-NLP-green)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
+![Last Commit](https://img.shields.io/github/last-commit/Arpit111111/Zomato-Review-Sentiment-Analysis)
+
 Author: Arpit Nayak  
 Tech:Python · NLP · Machine Learning · Pandas · Scikit-Learn
 
