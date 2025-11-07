@@ -1,0 +1,1001 @@
+Review ID,Customer Name,Review Text,Rating,Order ID,Restaurant Name
+REV00001,Customer_1,Exceptional Service and Great taste!.,5,ORD00022,Burger King
+REV00002,Customer_2,Good service but the food quality was average.,4,ORD00019,McDonasld's
+REV00003,Customer_3,The food was excellent and delivered on time.,2,ORD00096,McDonasld's
+REV00004,Customer_4,Exceptional Service and Great taste!.,4,ORD00021,McDonasld's
+REV00005,Customer_5,Not setisfied with the delivery time. Food was okay.,4,ORD00067,Subway
+REV00006,Customer_6,The food was excellent and delivered on time.,5,ORD00100,Barbeque Nation
+REV00007,Customer_7,The food was excellent and delivered on time.,5,ORD00005,Pizza Hut
+REV00008,Customer_8,Loved the pizza! will order again.,3,ORD00032,Burger King
+REV00009,Customer_9,Terrible experience! food was cold and delivery was late.,1,ORD00090,Burger King
+REV00010,Customer_10,The food was excellent and delivered on time.,5,ORD00058,Pizza Hut
+REV00011,Customer_11,Amazing biriyani! Quick delivery and great taste.,2,ORD00062,KFC
+REV00012,Customer_12,Loved the pizza! will order again.,5,ORD00008,Pizza Hut
+REV00013,Customer_13,Good service but the food quality was average.,4,ORD00058,Dpmino's
+REV00014,Customer_14,Not setisfied with the delivery time. Food was okay.,2,ORD00095,Barbeque Nation
+REV00015,Customer_15,The food was excellent and delivered on time.,2,ORD00090,Subway
+REV00016,Customer_16,The food was excellent and delivered on time.,3,ORD00062,McDonasld's
+REV00017,Customer_17,Amazing biriyani! Quick delivery and great taste.,4,ORD00064,Dpmino's
+REV00018,Customer_18,Exceptional Service and Great taste!.,1,ORD00094,Burger King
+REV00019,Customer_19,The food was excellent and delivered on time.,1,ORD00084,Dpmino's
+REV00020,Customer_20,Good service but the food quality was average.,2,ORD00083,Dpmino's
+REV00021,Customer_21,The pasta was delightful. Delivery would be quicker.,3,ORD00049,KFC
+REV00022,Customer_22,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00066,Burger King
+REV00023,Customer_23,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",1,ORD00061,Dpmino's
+REV00024,Customer_24,Amazing biriyani! Quick delivery and great taste.,4,ORD00085,Pizza Hut
+REV00025,Customer_25,Terrible experience! food was cold and delivery was late.,4,ORD00048,KFC
+REV00026,Customer_26,Exceptional Service and Great taste!.,3,ORD00014,Burger King
+REV00027,Customer_27,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",2,ORD00061,McDonasld's
+REV00028,Customer_28,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00041,Burger King
+REV00029,Customer_29,The pasta was delightful. Delivery would be quicker.,4,ORD00035,McDonasld's
+REV00030,Customer_30,Terrible experience! food was cold and delivery was late.,4,ORD00073,Subway
+REV00031,Customer_31,Good service but the food quality was average.,3,ORD00001,McDonasld's
+REV00032,Customer_32,Exceptional Service and Great taste!.,4,ORD00008,Burger King
+REV00033,Customer_33,The pasta was delightful. Delivery would be quicker.,4,ORD00063,KFC
+REV00034,Customer_34,Not setisfied with the delivery time. Food was okay.,4,ORD00044,Burger King
+REV00035,Customer_35,The food was excellent and delivered on time.,5,ORD00006,Subway
+REV00036,Customer_36,Not setisfied with the delivery time. Food was okay.,2,ORD00035,Subway
+REV00037,Customer_37,Exceptional Service and Great taste!.,3,ORD00059,Pizza Hut
+REV00038,Customer_38,The pasta was delightful. Delivery would be quicker.,2,ORD00045,Barbeque Nation
+REV00039,Customer_39,The pasta was delightful. Delivery would be quicker.,3,ORD00066,Barbeque Nation
+REV00040,Customer_40,Amazing biriyani! Quick delivery and great taste.,4,ORD00066,KFC
+REV00041,Customer_41,The food was excellent and delivered on time.,5,ORD00024,Burger King
+REV00042,Customer_42,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00041,Barbeque Nation
+REV00043,Customer_43,The food was excellent and delivered on time.,2,ORD00018,Subway
+REV00044,Customer_44,Good service but the food quality was average.,5,ORD00002,Barbeque Nation
+REV00045,Customer_45,Loved the pizza! will order again.,4,ORD00035,Dpmino's
+REV00046,Customer_46,The pasta was delightful. Delivery would be quicker.,5,ORD00071,Burger King
+REV00047,Customer_47,Loved the pizza! will order again.,2,ORD00081,Dpmino's
+REV00048,Customer_48,The food was excellent and delivered on time.,2,ORD00070,KFC
+REV00049,Customer_49,Terrible experience! food was cold and delivery was late.,2,ORD00018,Dpmino's
+REV00050,Customer_50,Loved the pizza! will order again.,5,ORD00006,McDonasld's
+REV00051,Customer_51,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00086,McDonasld's
+REV00052,Customer_52,Terrible experience! food was cold and delivery was late.,4,ORD00028,Pizza Hut
+REV00053,Customer_53,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",5,ORD00019,Dpmino's
+REV00054,Customer_54,Exceptional Service and Great taste!.,5,ORD00014,Pizza Hut
+REV00055,Customer_55,The pasta was delightful. Delivery would be quicker.,5,ORD00014,McDonasld's
+REV00056,Customer_56,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00015,Burger King
+REV00057,Customer_57,The pasta was delightful. Delivery would be quicker.,1,ORD00053,McDonasld's
+REV00058,Customer_58,Loved the pizza! will order again.,1,ORD00013,Dpmino's
+REV00059,Customer_59,Loved the pizza! will order again.,4,ORD00004,Pizza Hut
+REV00060,Customer_60,Terrible experience! food was cold and delivery was late.,4,ORD00035,Dpmino's
+REV00061,Customer_61,Terrible experience! food was cold and delivery was late.,3,ORD00030,Pizza Hut
+REV00062,Customer_62,Exceptional Service and Great taste!.,3,ORD00059,McDonasld's
+REV00063,Customer_63,Terrible experience! food was cold and delivery was late.,1,ORD00044,Pizza Hut
+REV00064,Customer_64,Terrible experience! food was cold and delivery was late.,2,ORD00080,Barbeque Nation
+REV00065,Customer_65,Not setisfied with the delivery time. Food was okay.,1,ORD00038,McDonasld's
+REV00066,Customer_66,Good service but the food quality was average.,4,ORD00015,Dpmino's
+REV00067,Customer_67,Exceptional Service and Great taste!.,3,ORD00087,McDonasld's
+REV00068,Customer_68,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00063,KFC
+REV00069,Customer_69,Good service but the food quality was average.,4,ORD00017,Pizza Hut
+REV00070,Customer_70,The food was excellent and delivered on time.,4,ORD00019,Subway
+REV00071,Customer_71,Amazing biriyani! Quick delivery and great taste.,1,ORD00059,Subway
+REV00072,Customer_72,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",1,ORD00037,Burger King
+REV00073,Customer_73,Exceptional Service and Great taste!.,2,ORD00012,Burger King
+REV00074,Customer_74,Not setisfied with the delivery time. Food was okay.,4,ORD00009,Barbeque Nation
+REV00075,Customer_75,Terrible experience! food was cold and delivery was late.,4,ORD00050,Dpmino's
+REV00076,Customer_76,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",5,ORD00086,Pizza Hut
+REV00077,Customer_77,Good service but the food quality was average.,2,ORD00037,Barbeque Nation
+REV00078,Customer_78,Terrible experience! food was cold and delivery was late.,4,ORD00012,Subway
+REV00079,Customer_79,Good service but the food quality was average.,3,ORD00015,Burger King
+REV00080,Customer_80,Loved the pizza! will order again.,5,ORD00067,KFC
+REV00081,Customer_81,Not setisfied with the delivery time. Food was okay.,3,ORD00053,Subway
+REV00082,Customer_82,Not setisfied with the delivery time. Food was okay.,2,ORD00034,McDonasld's
+REV00083,Customer_83,Good service but the food quality was average.,3,ORD00037,KFC
+REV00084,Customer_84,The pasta was delightful. Delivery would be quicker.,2,ORD00097,Burger King
+REV00085,Customer_85,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00049,Pizza Hut
+REV00086,Customer_86,Amazing biriyani! Quick delivery and great taste.,3,ORD00020,KFC
+REV00087,Customer_87,Good service but the food quality was average.,1,ORD00038,McDonasld's
+REV00088,Customer_88,Terrible experience! food was cold and delivery was late.,1,ORD00036,KFC
+REV00089,Customer_89,The pasta was delightful. Delivery would be quicker.,5,ORD00053,Burger King
+REV00090,Customer_90,Amazing biriyani! Quick delivery and great taste.,2,ORD00040,Burger King
+REV00091,Customer_91,The food was excellent and delivered on time.,5,ORD00094,Dpmino's
+REV00092,Customer_92,Exceptional Service and Great taste!.,1,ORD00045,Barbeque Nation
+REV00093,Customer_93,Good service but the food quality was average.,2,ORD00023,KFC
+REV00094,Customer_94,Good service but the food quality was average.,3,ORD00040,Subway
+REV00095,Customer_95,Loved the pizza! will order again.,2,ORD00065,Subway
+REV00096,Customer_96,Good service but the food quality was average.,2,ORD00025,Barbeque Nation
+REV00097,Customer_97,Terrible experience! food was cold and delivery was late.,3,ORD00094,Barbeque Nation
+REV00098,Customer_98,Exceptional Service and Great taste!.,1,ORD00028,Burger King
+REV00099,Customer_99,Amazing biriyani! Quick delivery and great taste.,1,ORD00090,Pizza Hut
+REV00100,Customer_100,Exceptional Service and Great taste!.,3,ORD00096,Burger King
+REV00101,Customer_101,Exceptional Service and Great taste!.,1,ORD00072,KFC
+REV00102,Customer_102,Amazing biriyani! Quick delivery and great taste.,2,ORD00030,Burger King
+REV00103,Customer_103,Amazing biriyani! Quick delivery and great taste.,3,ORD00100,Burger King
+REV00104,Customer_104,Amazing biriyani! Quick delivery and great taste.,5,ORD00042,KFC
+REV00105,Customer_105,Loved the pizza! will order again.,1,ORD00001,Burger King
+REV00106,Customer_106,Exceptional Service and Great taste!.,4,ORD00027,Pizza Hut
+REV00107,Customer_107,The food was excellent and delivered on time.,4,ORD00085,KFC
+REV00108,Customer_108,Not setisfied with the delivery time. Food was okay.,4,ORD00013,KFC
+REV00109,Customer_109,Amazing biriyani! Quick delivery and great taste.,5,ORD00018,Barbeque Nation
+REV00110,Customer_110,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00021,KFC
+REV00111,Customer_111,Good service but the food quality was average.,5,ORD00005,Pizza Hut
+REV00112,Customer_112,The pasta was delightful. Delivery would be quicker.,2,ORD00026,KFC
+REV00113,Customer_113,The food was excellent and delivered on time.,2,ORD00050,Barbeque Nation
+REV00114,Customer_114,Good service but the food quality was average.,1,ORD00039,KFC
+REV00115,Customer_115,Exceptional Service and Great taste!.,1,ORD00045,Barbeque Nation
+REV00116,Customer_116,Exceptional Service and Great taste!.,1,ORD00038,McDonasld's
+REV00117,Customer_117,Exceptional Service and Great taste!.,5,ORD00022,Subway
+REV00118,Customer_118,Not setisfied with the delivery time. Food was okay.,5,ORD00045,KFC
+REV00119,Customer_119,Loved the pizza! will order again.,3,ORD00062,Barbeque Nation
+REV00120,Customer_120,The pasta was delightful. Delivery would be quicker.,5,ORD00006,Burger King
+REV00121,Customer_121,Not setisfied with the delivery time. Food was okay.,2,ORD00030,Pizza Hut
+REV00122,Customer_122,Not setisfied with the delivery time. Food was okay.,1,ORD00100,Burger King
+REV00123,Customer_123,The food was excellent and delivered on time.,5,ORD00019,Dpmino's
+REV00124,Customer_124,Amazing biriyani! Quick delivery and great taste.,2,ORD00035,Dpmino's
+REV00125,Customer_125,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00011,Dpmino's
+REV00126,Customer_126,The pasta was delightful. Delivery would be quicker.,1,ORD00013,McDonasld's
+REV00127,Customer_127,Loved the pizza! will order again.,4,ORD00041,KFC
+REV00128,Customer_128,Not setisfied with the delivery time. Food was okay.,2,ORD00095,KFC
+REV00129,Customer_129,Good service but the food quality was average.,1,ORD00006,Dpmino's
+REV00130,Customer_130,Good service but the food quality was average.,5,ORD00012,Burger King
+REV00131,Customer_131,Not setisfied with the delivery time. Food was okay.,2,ORD00006,KFC
+REV00132,Customer_132,Exceptional Service and Great taste!.,4,ORD00009,Barbeque Nation
+REV00133,Customer_133,The pasta was delightful. Delivery would be quicker.,2,ORD00043,Burger King
+REV00134,Customer_134,The food was excellent and delivered on time.,3,ORD00006,Dpmino's
+REV00135,Customer_135,Exceptional Service and Great taste!.,3,ORD00065,Burger King
+REV00136,Customer_136,The food was excellent and delivered on time.,2,ORD00078,KFC
+REV00137,Customer_137,Good service but the food quality was average.,5,ORD00043,KFC
+REV00138,Customer_138,The pasta was delightful. Delivery would be quicker.,4,ORD00068,Subway
+REV00139,Customer_139,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00086,Dpmino's
+REV00140,Customer_140,Not setisfied with the delivery time. Food was okay.,3,ORD00072,McDonasld's
+REV00141,Customer_141,Terrible experience! food was cold and delivery was late.,1,ORD00067,Subway
+REV00142,Customer_142,The pasta was delightful. Delivery would be quicker.,1,ORD00090,Burger King
+REV00143,Customer_143,Loved the pizza! will order again.,1,ORD00075,Dpmino's
+REV00144,Customer_144,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",2,ORD00099,Barbeque Nation
+REV00145,Customer_145,Terrible experience! food was cold and delivery was late.,5,ORD00016,Subway
+REV00146,Customer_146,Good service but the food quality was average.,1,ORD00088,Subway
+REV00147,Customer_147,Amazing biriyani! Quick delivery and great taste.,2,ORD00006,Barbeque Nation
+REV00148,Customer_148,Good service but the food quality was average.,5,ORD00023,Subway
+REV00149,Customer_149,The pasta was delightful. Delivery would be quicker.,2,ORD00099,Dpmino's
+REV00150,Customer_150,The food was excellent and delivered on time.,4,ORD00004,Burger King
+REV00151,Customer_151,Amazing biriyani! Quick delivery and great taste.,3,ORD00003,Subway
+REV00152,Customer_152,Good service but the food quality was average.,4,ORD00010,Dpmino's
+REV00153,Customer_153,Good service but the food quality was average.,4,ORD00013,Dpmino's
+REV00154,Customer_154,Exceptional Service and Great taste!.,1,ORD00059,KFC
+REV00155,Customer_155,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00012,Subway
+REV00156,Customer_156,Terrible experience! food was cold and delivery was late.,3,ORD00039,Pizza Hut
+REV00157,Customer_157,Not setisfied with the delivery time. Food was okay.,4,ORD00050,Burger King
+REV00158,Customer_158,Exceptional Service and Great taste!.,3,ORD00027,Dpmino's
+REV00159,Customer_159,Exceptional Service and Great taste!.,1,ORD00027,Burger King
+REV00160,Customer_160,The pasta was delightful. Delivery would be quicker.,4,ORD00073,Barbeque Nation
+REV00161,Customer_161,Good service but the food quality was average.,4,ORD00053,Dpmino's
+REV00162,Customer_162,Terrible experience! food was cold and delivery was late.,1,ORD00079,Subway
+REV00163,Customer_163,Amazing biriyani! Quick delivery and great taste.,5,ORD00085,McDonasld's
+REV00164,Customer_164,The pasta was delightful. Delivery would be quicker.,5,ORD00011,Barbeque Nation
+REV00165,Customer_165,Terrible experience! food was cold and delivery was late.,5,ORD00061,Barbeque Nation
+REV00166,Customer_166,The food was excellent and delivered on time.,4,ORD00089,Subway
+REV00167,Customer_167,Amazing biriyani! Quick delivery and great taste.,2,ORD00053,Barbeque Nation
+REV00168,Customer_168,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",2,ORD00041,Pizza Hut
+REV00169,Customer_169,Good service but the food quality was average.,2,ORD00072,KFC
+REV00170,Customer_170,Terrible experience! food was cold and delivery was late.,1,ORD00019,Barbeque Nation
+REV00171,Customer_171,Not setisfied with the delivery time. Food was okay.,1,ORD00071,Dpmino's
+REV00172,Customer_172,The pasta was delightful. Delivery would be quicker.,1,ORD00038,Burger King
+REV00173,Customer_173,Loved the pizza! will order again.,2,ORD00057,Dpmino's
+REV00174,Customer_174,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",1,ORD00004,Dpmino's
+REV00175,Customer_175,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00085,KFC
+REV00176,Customer_176,Good service but the food quality was average.,4,ORD00074,KFC
+REV00177,Customer_177,The pasta was delightful. Delivery would be quicker.,5,ORD00081,Pizza Hut
+REV00178,Customer_178,The food was excellent and delivered on time.,5,ORD00025,KFC
+REV00179,Customer_179,The food was excellent and delivered on time.,1,ORD00059,Subway
+REV00180,Customer_180,Exceptional Service and Great taste!.,2,ORD00051,McDonasld's
+REV00181,Customer_181,Amazing biriyani! Quick delivery and great taste.,2,ORD00066,Barbeque Nation
+REV00182,Customer_182,Good service but the food quality was average.,3,ORD00037,Pizza Hut
+REV00183,Customer_183,The food was excellent and delivered on time.,1,ORD00097,Burger King
+REV00184,Customer_184,Exceptional Service and Great taste!.,2,ORD00008,McDonasld's
+REV00185,Customer_185,Terrible experience! food was cold and delivery was late.,4,ORD00025,Burger King
+REV00186,Customer_186,Good service but the food quality was average.,1,ORD00098,KFC
+REV00187,Customer_187,Exceptional Service and Great taste!.,2,ORD00005,Subway
+REV00188,Customer_188,Good service but the food quality was average.,3,ORD00028,Subway
+REV00189,Customer_189,Amazing biriyani! Quick delivery and great taste.,1,ORD00056,Pizza Hut
+REV00190,Customer_190,Not setisfied with the delivery time. Food was okay.,3,ORD00031,Dpmino's
+REV00191,Customer_191,Not setisfied with the delivery time. Food was okay.,2,ORD00032,McDonasld's
+REV00192,Customer_192,The pasta was delightful. Delivery would be quicker.,1,ORD00048,Subway
+REV00193,Customer_193,The food was excellent and delivered on time.,3,ORD00090,Dpmino's
+REV00194,Customer_194,Good service but the food quality was average.,5,ORD00005,Subway
+REV00195,Customer_195,Good service but the food quality was average.,2,ORD00088,Subway
+REV00196,Customer_196,Loved the pizza! will order again.,3,ORD00033,Burger King
+REV00197,Customer_197,Good service but the food quality was average.,2,ORD00061,McDonasld's
+REV00198,Customer_198,The food was excellent and delivered on time.,5,ORD00098,Burger King
+REV00199,Customer_199,Exceptional Service and Great taste!.,2,ORD00095,Subway
+REV00200,Customer_200,Amazing biriyani! Quick delivery and great taste.,1,ORD00093,Subway
+REV00201,Customer_201,Good service but the food quality was average.,5,ORD00071,Burger King
+REV00202,Customer_202,Loved the pizza! will order again.,5,ORD00013,Pizza Hut
+REV00203,Customer_203,Loved the pizza! will order again.,4,ORD00081,Burger King
+REV00204,Customer_204,Terrible experience! food was cold and delivery was late.,1,ORD00068,Pizza Hut
+REV00205,Customer_205,The food was excellent and delivered on time.,2,ORD00054,KFC
+REV00206,Customer_206,The pasta was delightful. Delivery would be quicker.,5,ORD00090,Subway
+REV00207,Customer_207,Loved the pizza! will order again.,2,ORD00063,Pizza Hut
+REV00208,Customer_208,Terrible experience! food was cold and delivery was late.,4,ORD00030,KFC
+REV00209,Customer_209,Loved the pizza! will order again.,5,ORD00017,Barbeque Nation
+REV00210,Customer_210,The pasta was delightful. Delivery would be quicker.,5,ORD00053,Subway
+REV00211,Customer_211,Terrible experience! food was cold and delivery was late.,2,ORD00032,Pizza Hut
+REV00212,Customer_212,The pasta was delightful. Delivery would be quicker.,1,ORD00060,KFC
+REV00213,Customer_213,Loved the pizza! will order again.,1,ORD00039,Pizza Hut
+REV00214,Customer_214,Not setisfied with the delivery time. Food was okay.,4,ORD00086,Dpmino's
+REV00215,Customer_215,Not setisfied with the delivery time. Food was okay.,4,ORD00023,Subway
+REV00216,Customer_216,Amazing biriyani! Quick delivery and great taste.,2,ORD00069,Barbeque Nation
+REV00217,Customer_217,Good service but the food quality was average.,5,ORD00020,Dpmino's
+REV00218,Customer_218,The food was excellent and delivered on time.,1,ORD00002,McDonasld's
+REV00219,Customer_219,Loved the pizza! will order again.,4,ORD00071,Burger King
+REV00220,Customer_220,Good service but the food quality was average.,2,ORD00097,McDonasld's
+REV00221,Customer_221,Not setisfied with the delivery time. Food was okay.,2,ORD00066,KFC
+REV00222,Customer_222,The pasta was delightful. Delivery would be quicker.,5,ORD00089,Dpmino's
+REV00223,Customer_223,Exceptional Service and Great taste!.,3,ORD00082,Dpmino's
+REV00224,Customer_224,The pasta was delightful. Delivery would be quicker.,3,ORD00011,Burger King
+REV00225,Customer_225,The food was excellent and delivered on time.,5,ORD00033,Pizza Hut
+REV00226,Customer_226,Exceptional Service and Great taste!.,4,ORD00013,Subway
+REV00227,Customer_227,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00014,KFC
+REV00228,Customer_228,The pasta was delightful. Delivery would be quicker.,4,ORD00045,Burger King
+REV00229,Customer_229,The food was excellent and delivered on time.,2,ORD00065,KFC
+REV00230,Customer_230,Terrible experience! food was cold and delivery was late.,5,ORD00067,McDonasld's
+REV00231,Customer_231,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",5,ORD00052,KFC
+REV00232,Customer_232,Amazing biriyani! Quick delivery and great taste.,2,ORD00089,Burger King
+REV00233,Customer_233,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",1,ORD00043,KFC
+REV00234,Customer_234,Not setisfied with the delivery time. Food was okay.,4,ORD00039,KFC
+REV00235,Customer_235,Terrible experience! food was cold and delivery was late.,4,ORD00037,Barbeque Nation
+REV00236,Customer_236,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",5,ORD00043,McDonasld's
+REV00237,Customer_237,Not setisfied with the delivery time. Food was okay.,2,ORD00023,Barbeque Nation
+REV00238,Customer_238,Not setisfied with the delivery time. Food was okay.,3,ORD00033,Barbeque Nation
+REV00239,Customer_239,Not setisfied with the delivery time. Food was okay.,3,ORD00064,Barbeque Nation
+REV00240,Customer_240,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",5,ORD00017,KFC
+REV00241,Customer_241,Loved the pizza! will order again.,4,ORD00084,Barbeque Nation
+REV00242,Customer_242,Amazing biriyani! Quick delivery and great taste.,4,ORD00011,McDonasld's
+REV00243,Customer_243,Not setisfied with the delivery time. Food was okay.,3,ORD00076,Barbeque Nation
+REV00244,Customer_244,The pasta was delightful. Delivery would be quicker.,1,ORD00087,McDonasld's
+REV00245,Customer_245,Loved the pizza! will order again.,5,ORD00058,Barbeque Nation
+REV00246,Customer_246,Good service but the food quality was average.,4,ORD00078,Dpmino's
+REV00247,Customer_247,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00025,Dpmino's
+REV00248,Customer_248,Not setisfied with the delivery time. Food was okay.,4,ORD00069,Dpmino's
+REV00249,Customer_249,The food was excellent and delivered on time.,3,ORD00038,Pizza Hut
+REV00250,Customer_250,Terrible experience! food was cold and delivery was late.,2,ORD00066,Subway
+REV00251,Customer_251,The pasta was delightful. Delivery would be quicker.,5,ORD00017,Subway
+REV00252,Customer_252,Terrible experience! food was cold and delivery was late.,5,ORD00057,Subway
+REV00253,Customer_253,Amazing biriyani! Quick delivery and great taste.,1,ORD00023,KFC
+REV00254,Customer_254,Terrible experience! food was cold and delivery was late.,5,ORD00049,Burger King
+REV00255,Customer_255,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00033,KFC
+REV00256,Customer_256,The pasta was delightful. Delivery would be quicker.,4,ORD00066,Pizza Hut
+REV00257,Customer_257,Amazing biriyani! Quick delivery and great taste.,2,ORD00060,Dpmino's
+REV00258,Customer_258,The food was excellent and delivered on time.,3,ORD00050,McDonasld's
+REV00259,Customer_259,Not setisfied with the delivery time. Food was okay.,3,ORD00044,Barbeque Nation
+REV00260,Customer_260,Amazing biriyani! Quick delivery and great taste.,4,ORD00076,Burger King
+REV00261,Customer_261,Terrible experience! food was cold and delivery was late.,1,ORD00065,KFC
+REV00262,Customer_262,Loved the pizza! will order again.,4,ORD00008,Pizza Hut
+REV00263,Customer_263,Amazing biriyani! Quick delivery and great taste.,1,ORD00080,Burger King
+REV00264,Customer_264,Exceptional Service and Great taste!.,1,ORD00036,McDonasld's
+REV00265,Customer_265,Terrible experience! food was cold and delivery was late.,3,ORD00092,Dpmino's
+REV00266,Customer_266,The pasta was delightful. Delivery would be quicker.,5,ORD00100,Burger King
+REV00267,Customer_267,The pasta was delightful. Delivery would be quicker.,2,ORD00099,Barbeque Nation
+REV00268,Customer_268,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",5,ORD00035,Dpmino's
+REV00269,Customer_269,The food was excellent and delivered on time.,4,ORD00054,Subway
+REV00270,Customer_270,Amazing biriyani! Quick delivery and great taste.,4,ORD00086,Burger King
+REV00271,Customer_271,Exceptional Service and Great taste!.,3,ORD00043,Barbeque Nation
+REV00272,Customer_272,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",2,ORD00001,McDonasld's
+REV00273,Customer_273,Good service but the food quality was average.,1,ORD00006,Pizza Hut
+REV00274,Customer_274,Not setisfied with the delivery time. Food was okay.,5,ORD00048,KFC
+REV00275,Customer_275,The pasta was delightful. Delivery would be quicker.,1,ORD00071,Subway
+REV00276,Customer_276,Not setisfied with the delivery time. Food was okay.,1,ORD00020,Dpmino's
+REV00277,Customer_277,Loved the pizza! will order again.,2,ORD00016,Dpmino's
+REV00278,Customer_278,Loved the pizza! will order again.,1,ORD00025,McDonasld's
+REV00279,Customer_279,The pasta was delightful. Delivery would be quicker.,4,ORD00082,Pizza Hut
+REV00280,Customer_280,Exceptional Service and Great taste!.,2,ORD00039,Subway
+REV00281,Customer_281,Not setisfied with the delivery time. Food was okay.,3,ORD00070,Dpmino's
+REV00282,Customer_282,The pasta was delightful. Delivery would be quicker.,4,ORD00079,Pizza Hut
+REV00283,Customer_283,The food was excellent and delivered on time.,5,ORD00097,Burger King
+REV00284,Customer_284,Not setisfied with the delivery time. Food was okay.,4,ORD00075,KFC
+REV00285,Customer_285,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",5,ORD00074,Barbeque Nation
+REV00286,Customer_286,Amazing biriyani! Quick delivery and great taste.,2,ORD00029,McDonasld's
+REV00287,Customer_287,Exceptional Service and Great taste!.,5,ORD00045,Dpmino's
+REV00288,Customer_288,Terrible experience! food was cold and delivery was late.,4,ORD00019,KFC
+REV00289,Customer_289,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00086,Barbeque Nation
+REV00290,Customer_290,Not setisfied with the delivery time. Food was okay.,4,ORD00039,McDonasld's
+REV00291,Customer_291,Loved the pizza! will order again.,5,ORD00029,McDonasld's
+REV00292,Customer_292,Terrible experience! food was cold and delivery was late.,4,ORD00038,KFC
+REV00293,Customer_293,Good service but the food quality was average.,2,ORD00051,KFC
+REV00294,Customer_294,Amazing biriyani! Quick delivery and great taste.,5,ORD00042,Pizza Hut
+REV00295,Customer_295,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00057,Barbeque Nation
+REV00296,Customer_296,Terrible experience! food was cold and delivery was late.,2,ORD00097,Subway
+REV00297,Customer_297,The pasta was delightful. Delivery would be quicker.,4,ORD00061,Dpmino's
+REV00298,Customer_298,The food was excellent and delivered on time.,4,ORD00014,McDonasld's
+REV00299,Customer_299,Amazing biriyani! Quick delivery and great taste.,4,ORD00033,Dpmino's
+REV00300,Customer_300,Not setisfied with the delivery time. Food was okay.,1,ORD00014,McDonasld's
+REV00301,Customer_301,The pasta was delightful. Delivery would be quicker.,5,ORD00025,KFC
+REV00302,Customer_302,Exceptional Service and Great taste!.,5,ORD00061,Barbeque Nation
+REV00303,Customer_303,The food was excellent and delivered on time.,3,ORD00067,Pizza Hut
+REV00304,Customer_304,Terrible experience! food was cold and delivery was late.,4,ORD00004,Burger King
+REV00305,Customer_305,Terrible experience! food was cold and delivery was late.,5,ORD00023,Barbeque Nation
+REV00306,Customer_306,Amazing biriyani! Quick delivery and great taste.,3,ORD00014,Pizza Hut
+REV00307,Customer_307,Terrible experience! food was cold and delivery was late.,4,ORD00092,McDonasld's
+REV00308,Customer_308,Loved the pizza! will order again.,3,ORD00097,Dpmino's
+REV00309,Customer_309,Exceptional Service and Great taste!.,5,ORD00040,Pizza Hut
+REV00310,Customer_310,Not setisfied with the delivery time. Food was okay.,3,ORD00076,Burger King
+REV00311,Customer_311,Not setisfied with the delivery time. Food was okay.,5,ORD00029,Burger King
+REV00312,Customer_312,Terrible experience! food was cold and delivery was late.,5,ORD00079,Pizza Hut
+REV00313,Customer_313,Terrible experience! food was cold and delivery was late.,1,ORD00026,Pizza Hut
+REV00314,Customer_314,Exceptional Service and Great taste!.,4,ORD00088,Subway
+REV00315,Customer_315,Loved the pizza! will order again.,5,ORD00057,Pizza Hut
+REV00316,Customer_316,Amazing biriyani! Quick delivery and great taste.,5,ORD00090,KFC
+REV00317,Customer_317,Exceptional Service and Great taste!.,5,ORD00002,Subway
+REV00318,Customer_318,Not setisfied with the delivery time. Food was okay.,5,ORD00019,Subway
+REV00319,Customer_319,The pasta was delightful. Delivery would be quicker.,1,ORD00025,KFC
+REV00320,Customer_320,The food was excellent and delivered on time.,3,ORD00005,Dpmino's
+REV00321,Customer_321,The food was excellent and delivered on time.,2,ORD00069,McDonasld's
+REV00322,Customer_322,Amazing biriyani! Quick delivery and great taste.,3,ORD00015,KFC
+REV00323,Customer_323,The pasta was delightful. Delivery would be quicker.,1,ORD00074,Pizza Hut
+REV00324,Customer_324,Exceptional Service and Great taste!.,4,ORD00069,Barbeque Nation
+REV00325,Customer_325,Terrible experience! food was cold and delivery was late.,3,ORD00034,Dpmino's
+REV00326,Customer_326,Good service but the food quality was average.,4,ORD00031,Barbeque Nation
+REV00327,Customer_327,The pasta was delightful. Delivery would be quicker.,4,ORD00035,Subway
+REV00328,Customer_328,Not setisfied with the delivery time. Food was okay.,3,ORD00065,McDonasld's
+REV00329,Customer_329,Loved the pizza! will order again.,1,ORD00045,Barbeque Nation
+REV00330,Customer_330,Not setisfied with the delivery time. Food was okay.,3,ORD00098,Subway
+REV00331,Customer_331,Not setisfied with the delivery time. Food was okay.,3,ORD00026,Barbeque Nation
+REV00332,Customer_332,Amazing biriyani! Quick delivery and great taste.,5,ORD00030,Barbeque Nation
+REV00333,Customer_333,Not setisfied with the delivery time. Food was okay.,2,ORD00006,Barbeque Nation
+REV00334,Customer_334,Terrible experience! food was cold and delivery was late.,2,ORD00089,Dpmino's
+REV00335,Customer_335,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",1,ORD00028,Burger King
+REV00336,Customer_336,The food was excellent and delivered on time.,5,ORD00003,Dpmino's
+REV00337,Customer_337,Loved the pizza! will order again.,3,ORD00085,Barbeque Nation
+REV00338,Customer_338,Loved the pizza! will order again.,3,ORD00012,KFC
+REV00339,Customer_339,Amazing biriyani! Quick delivery and great taste.,2,ORD00075,KFC
+REV00340,Customer_340,Terrible experience! food was cold and delivery was late.,1,ORD00024,KFC
+REV00341,Customer_341,Terrible experience! food was cold and delivery was late.,1,ORD00032,Barbeque Nation
+REV00342,Customer_342,The food was excellent and delivered on time.,2,ORD00027,Pizza Hut
+REV00343,Customer_343,Good service but the food quality was average.,1,ORD00049,Dpmino's
+REV00344,Customer_344,Terrible experience! food was cold and delivery was late.,3,ORD00021,Barbeque Nation
+REV00345,Customer_345,The food was excellent and delivered on time.,1,ORD00087,KFC
+REV00346,Customer_346,Not setisfied with the delivery time. Food was okay.,1,ORD00057,Subway
+REV00347,Customer_347,Not setisfied with the delivery time. Food was okay.,5,ORD00098,Pizza Hut
+REV00348,Customer_348,Good service but the food quality was average.,2,ORD00011,Burger King
+REV00349,Customer_349,Good service but the food quality was average.,1,ORD00047,Barbeque Nation
+REV00350,Customer_350,Amazing biriyani! Quick delivery and great taste.,4,ORD00035,Burger King
+REV00351,Customer_351,The food was excellent and delivered on time.,1,ORD00060,Dpmino's
+REV00352,Customer_352,The food was excellent and delivered on time.,4,ORD00078,Barbeque Nation
+REV00353,Customer_353,Amazing biriyani! Quick delivery and great taste.,1,ORD00095,McDonasld's
+REV00354,Customer_354,Loved the pizza! will order again.,5,ORD00047,Dpmino's
+REV00355,Customer_355,Loved the pizza! will order again.,3,ORD00071,Burger King
+REV00356,Customer_356,Amazing biriyani! Quick delivery and great taste.,3,ORD00077,Dpmino's
+REV00357,Customer_357,Not setisfied with the delivery time. Food was okay.,3,ORD00018,KFC
+REV00358,Customer_358,The food was excellent and delivered on time.,1,ORD00005,Barbeque Nation
+REV00359,Customer_359,The food was excellent and delivered on time.,3,ORD00083,Dpmino's
+REV00360,Customer_360,Amazing biriyani! Quick delivery and great taste.,5,ORD00051,Burger King
+REV00361,Customer_361,Good service but the food quality was average.,2,ORD00017,KFC
+REV00362,Customer_362,Not setisfied with the delivery time. Food was okay.,4,ORD00054,Dpmino's
+REV00363,Customer_363,The food was excellent and delivered on time.,1,ORD00064,Pizza Hut
+REV00364,Customer_364,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",1,ORD00072,Dpmino's
+REV00365,Customer_365,Good service but the food quality was average.,3,ORD00077,McDonasld's
+REV00366,Customer_366,Loved the pizza! will order again.,1,ORD00051,Barbeque Nation
+REV00367,Customer_367,Not setisfied with the delivery time. Food was okay.,2,ORD00049,McDonasld's
+REV00368,Customer_368,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00007,Dpmino's
+REV00369,Customer_369,Amazing biriyani! Quick delivery and great taste.,5,ORD00006,Pizza Hut
+REV00370,Customer_370,Loved the pizza! will order again.,1,ORD00032,McDonasld's
+REV00371,Customer_371,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00074,Dpmino's
+REV00372,Customer_372,Terrible experience! food was cold and delivery was late.,3,ORD00022,Subway
+REV00373,Customer_373,Loved the pizza! will order again.,3,ORD00100,Pizza Hut
+REV00374,Customer_374,Amazing biriyani! Quick delivery and great taste.,2,ORD00067,KFC
+REV00375,Customer_375,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",2,ORD00045,Barbeque Nation
+REV00376,Customer_376,Good service but the food quality was average.,3,ORD00032,McDonasld's
+REV00377,Customer_377,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",1,ORD00066,Subway
+REV00378,Customer_378,Not setisfied with the delivery time. Food was okay.,5,ORD00024,McDonasld's
+REV00379,Customer_379,Exceptional Service and Great taste!.,2,ORD00014,Dpmino's
+REV00380,Customer_380,The pasta was delightful. Delivery would be quicker.,3,ORD00068,McDonasld's
+REV00381,Customer_381,Good service but the food quality was average.,4,ORD00010,Dpmino's
+REV00382,Customer_382,The pasta was delightful. Delivery would be quicker.,3,ORD00006,KFC
+REV00383,Customer_383,The pasta was delightful. Delivery would be quicker.,5,ORD00050,Dpmino's
+REV00384,Customer_384,Amazing biriyani! Quick delivery and great taste.,4,ORD00051,KFC
+REV00385,Customer_385,Exceptional Service and Great taste!.,5,ORD00009,McDonasld's
+REV00386,Customer_386,Amazing biriyani! Quick delivery and great taste.,5,ORD00084,Barbeque Nation
+REV00387,Customer_387,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00034,Barbeque Nation
+REV00388,Customer_388,The food was excellent and delivered on time.,4,ORD00042,KFC
+REV00389,Customer_389,Terrible experience! food was cold and delivery was late.,3,ORD00078,McDonasld's
+REV00390,Customer_390,Terrible experience! food was cold and delivery was late.,2,ORD00045,McDonasld's
+REV00391,Customer_391,Loved the pizza! will order again.,5,ORD00086,Subway
+REV00392,Customer_392,Good service but the food quality was average.,3,ORD00084,KFC
+REV00393,Customer_393,The food was excellent and delivered on time.,5,ORD00022,Pizza Hut
+REV00394,Customer_394,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00053,Dpmino's
+REV00395,Customer_395,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",2,ORD00095,Pizza Hut
+REV00396,Customer_396,Not setisfied with the delivery time. Food was okay.,4,ORD00019,Subway
+REV00397,Customer_397,The food was excellent and delivered on time.,4,ORD00080,Dpmino's
+REV00398,Customer_398,The pasta was delightful. Delivery would be quicker.,5,ORD00089,Subway
+REV00399,Customer_399,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00041,Pizza Hut
+REV00400,Customer_400,The pasta was delightful. Delivery would be quicker.,3,ORD00079,McDonasld's
+REV00401,Customer_401,Not setisfied with the delivery time. Food was okay.,3,ORD00020,Burger King
+REV00402,Customer_402,Good service but the food quality was average.,3,ORD00040,Barbeque Nation
+REV00403,Customer_403,Terrible experience! food was cold and delivery was late.,3,ORD00008,KFC
+REV00404,Customer_404,Loved the pizza! will order again.,1,ORD00097,Subway
+REV00405,Customer_405,The food was excellent and delivered on time.,3,ORD00057,Burger King
+REV00406,Customer_406,Loved the pizza! will order again.,4,ORD00089,Pizza Hut
+REV00407,Customer_407,The food was excellent and delivered on time.,5,ORD00024,Dpmino's
+REV00408,Customer_408,Not setisfied with the delivery time. Food was okay.,3,ORD00071,Subway
+REV00409,Customer_409,Good service but the food quality was average.,3,ORD00071,Barbeque Nation
+REV00410,Customer_410,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",5,ORD00018,Pizza Hut
+REV00411,Customer_411,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",2,ORD00040,McDonasld's
+REV00412,Customer_412,The pasta was delightful. Delivery would be quicker.,4,ORD00017,Pizza Hut
+REV00413,Customer_413,Exceptional Service and Great taste!.,3,ORD00034,McDonasld's
+REV00414,Customer_414,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00013,Subway
+REV00415,Customer_415,Loved the pizza! will order again.,5,ORD00032,McDonasld's
+REV00416,Customer_416,The food was excellent and delivered on time.,4,ORD00052,McDonasld's
+REV00417,Customer_417,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00059,KFC
+REV00418,Customer_418,The pasta was delightful. Delivery would be quicker.,5,ORD00015,KFC
+REV00419,Customer_419,Exceptional Service and Great taste!.,3,ORD00015,KFC
+REV00420,Customer_420,Amazing biriyani! Quick delivery and great taste.,4,ORD00051,KFC
+REV00421,Customer_421,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",2,ORD00083,KFC
+REV00422,Customer_422,Not setisfied with the delivery time. Food was okay.,5,ORD00035,Dpmino's
+REV00423,Customer_423,Amazing biriyani! Quick delivery and great taste.,3,ORD00023,Barbeque Nation
+REV00424,Customer_424,Loved the pizza! will order again.,5,ORD00001,McDonasld's
+REV00425,Customer_425,Exceptional Service and Great taste!.,2,ORD00098,KFC
+REV00426,Customer_426,Not setisfied with the delivery time. Food was okay.,2,ORD00021,Dpmino's
+REV00427,Customer_427,Amazing biriyani! Quick delivery and great taste.,2,ORD00017,McDonasld's
+REV00428,Customer_428,The pasta was delightful. Delivery would be quicker.,5,ORD00043,KFC
+REV00429,Customer_429,Not setisfied with the delivery time. Food was okay.,1,ORD00013,Subway
+REV00430,Customer_430,Not setisfied with the delivery time. Food was okay.,2,ORD00083,Subway
+REV00431,Customer_431,Not setisfied with the delivery time. Food was okay.,5,ORD00015,Dpmino's
+REV00432,Customer_432,Loved the pizza! will order again.,4,ORD00020,Barbeque Nation
+REV00433,Customer_433,Loved the pizza! will order again.,2,ORD00092,KFC
+REV00434,Customer_434,Good service but the food quality was average.,2,ORD00004,Subway
+REV00435,Customer_435,Good service but the food quality was average.,2,ORD00057,Burger King
+REV00436,Customer_436,Not setisfied with the delivery time. Food was okay.,2,ORD00056,Barbeque Nation
+REV00437,Customer_437,Amazing biriyani! Quick delivery and great taste.,1,ORD00010,Pizza Hut
+REV00438,Customer_438,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",1,ORD00068,Dpmino's
+REV00439,Customer_439,Exceptional Service and Great taste!.,1,ORD00071,Burger King
+REV00440,Customer_440,Terrible experience! food was cold and delivery was late.,1,ORD00018,Barbeque Nation
+REV00441,Customer_441,The food was excellent and delivered on time.,2,ORD00028,KFC
+REV00442,Customer_442,Good service but the food quality was average.,4,ORD00028,McDonasld's
+REV00443,Customer_443,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00012,Barbeque Nation
+REV00444,Customer_444,Exceptional Service and Great taste!.,1,ORD00016,Barbeque Nation
+REV00445,Customer_445,Amazing biriyani! Quick delivery and great taste.,1,ORD00039,Pizza Hut
+REV00446,Customer_446,The pasta was delightful. Delivery would be quicker.,2,ORD00026,Dpmino's
+REV00447,Customer_447,The food was excellent and delivered on time.,2,ORD00051,KFC
+REV00448,Customer_448,Exceptional Service and Great taste!.,1,ORD00026,McDonasld's
+REV00449,Customer_449,Exceptional Service and Great taste!.,1,ORD00078,McDonasld's
+REV00450,Customer_450,Good service but the food quality was average.,2,ORD00067,Barbeque Nation
+REV00451,Customer_451,Exceptional Service and Great taste!.,5,ORD00013,KFC
+REV00452,Customer_452,Good service but the food quality was average.,1,ORD00053,Burger King
+REV00453,Customer_453,Exceptional Service and Great taste!.,4,ORD00062,Barbeque Nation
+REV00454,Customer_454,Not setisfied with the delivery time. Food was okay.,2,ORD00005,McDonasld's
+REV00455,Customer_455,Exceptional Service and Great taste!.,4,ORD00018,Burger King
+REV00456,Customer_456,Terrible experience! food was cold and delivery was late.,1,ORD00095,Burger King
+REV00457,Customer_457,The pasta was delightful. Delivery would be quicker.,1,ORD00080,McDonasld's
+REV00458,Customer_458,Good service but the food quality was average.,1,ORD00006,Burger King
+REV00459,Customer_459,Not setisfied with the delivery time. Food was okay.,5,ORD00020,Subway
+REV00460,Customer_460,The food was excellent and delivered on time.,4,ORD00069,KFC
+REV00461,Customer_461,Not setisfied with the delivery time. Food was okay.,3,ORD00002,KFC
+REV00462,Customer_462,Amazing biriyani! Quick delivery and great taste.,5,ORD00022,Burger King
+REV00463,Customer_463,Good service but the food quality was average.,2,ORD00038,McDonasld's
+REV00464,Customer_464,Terrible experience! food was cold and delivery was late.,2,ORD00052,Dpmino's
+REV00465,Customer_465,Loved the pizza! will order again.,5,ORD00034,Dpmino's
+REV00466,Customer_466,Not setisfied with the delivery time. Food was okay.,4,ORD00044,Subway
+REV00467,Customer_467,Not setisfied with the delivery time. Food was okay.,2,ORD00053,Dpmino's
+REV00468,Customer_468,Amazing biriyani! Quick delivery and great taste.,4,ORD00018,Dpmino's
+REV00469,Customer_469,The food was excellent and delivered on time.,1,ORD00085,McDonasld's
+REV00470,Customer_470,Amazing biriyani! Quick delivery and great taste.,3,ORD00088,Pizza Hut
+REV00471,Customer_471,The food was excellent and delivered on time.,5,ORD00023,Dpmino's
+REV00472,Customer_472,The pasta was delightful. Delivery would be quicker.,2,ORD00037,McDonasld's
+REV00473,Customer_473,Good service but the food quality was average.,3,ORD00019,Subway
+REV00474,Customer_474,The pasta was delightful. Delivery would be quicker.,5,ORD00010,Pizza Hut
+REV00475,Customer_475,Amazing biriyani! Quick delivery and great taste.,4,ORD00080,McDonasld's
+REV00476,Customer_476,The food was excellent and delivered on time.,4,ORD00037,McDonasld's
+REV00477,Customer_477,Amazing biriyani! Quick delivery and great taste.,1,ORD00044,Barbeque Nation
+REV00478,Customer_478,Good service but the food quality was average.,4,ORD00073,Burger King
+REV00479,Customer_479,Good service but the food quality was average.,5,ORD00025,Barbeque Nation
+REV00480,Customer_480,The food was excellent and delivered on time.,5,ORD00012,McDonasld's
+REV00481,Customer_481,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",1,ORD00030,KFC
+REV00482,Customer_482,Not setisfied with the delivery time. Food was okay.,1,ORD00055,McDonasld's
+REV00483,Customer_483,Exceptional Service and Great taste!.,5,ORD00003,McDonasld's
+REV00484,Customer_484,Not setisfied with the delivery time. Food was okay.,1,ORD00008,KFC
+REV00485,Customer_485,Exceptional Service and Great taste!.,1,ORD00091,KFC
+REV00486,Customer_486,Terrible experience! food was cold and delivery was late.,4,ORD00001,Pizza Hut
+REV00487,Customer_487,Terrible experience! food was cold and delivery was late.,5,ORD00048,KFC
+REV00488,Customer_488,Loved the pizza! will order again.,2,ORD00013,Pizza Hut
+REV00489,Customer_489,Amazing biriyani! Quick delivery and great taste.,1,ORD00019,McDonasld's
+REV00490,Customer_490,Amazing biriyani! Quick delivery and great taste.,4,ORD00041,KFC
+REV00491,Customer_491,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",1,ORD00079,KFC
+REV00492,Customer_492,The food was excellent and delivered on time.,5,ORD00092,Pizza Hut
+REV00493,Customer_493,The food was excellent and delivered on time.,3,ORD00015,KFC
+REV00494,Customer_494,Good service but the food quality was average.,5,ORD00068,Subway
+REV00495,Customer_495,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",1,ORD00005,Dpmino's
+REV00496,Customer_496,Not setisfied with the delivery time. Food was okay.,1,ORD00090,Pizza Hut
+REV00497,Customer_497,Exceptional Service and Great taste!.,4,ORD00029,Barbeque Nation
+REV00498,Customer_498,Amazing biriyani! Quick delivery and great taste.,4,ORD00099,McDonasld's
+REV00499,Customer_499,The food was excellent and delivered on time.,4,ORD00085,KFC
+REV00500,Customer_500,Not setisfied with the delivery time. Food was okay.,3,ORD00085,Pizza Hut
+REV00501,Customer_501,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",5,ORD00071,Dpmino's
+REV00502,Customer_502,The pasta was delightful. Delivery would be quicker.,5,ORD00092,Pizza Hut
+REV00503,Customer_503,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",5,ORD00027,Pizza Hut
+REV00504,Customer_504,The pasta was delightful. Delivery would be quicker.,1,ORD00050,Barbeque Nation
+REV00505,Customer_505,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",5,ORD00077,McDonasld's
+REV00506,Customer_506,Terrible experience! food was cold and delivery was late.,1,ORD00085,Pizza Hut
+REV00507,Customer_507,Not setisfied with the delivery time. Food was okay.,3,ORD00002,Dpmino's
+REV00508,Customer_508,Not setisfied with the delivery time. Food was okay.,2,ORD00088,Dpmino's
+REV00509,Customer_509,Exceptional Service and Great taste!.,4,ORD00064,KFC
+REV00510,Customer_510,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",2,ORD00092,KFC
+REV00511,Customer_511,Loved the pizza! will order again.,4,ORD00014,Burger King
+REV00512,Customer_512,Terrible experience! food was cold and delivery was late.,2,ORD00018,Dpmino's
+REV00513,Customer_513,Loved the pizza! will order again.,4,ORD00071,Pizza Hut
+REV00514,Customer_514,Amazing biriyani! Quick delivery and great taste.,1,ORD00100,Barbeque Nation
+REV00515,Customer_515,The food was excellent and delivered on time.,3,ORD00038,Subway
+REV00516,Customer_516,The pasta was delightful. Delivery would be quicker.,5,ORD00026,McDonasld's
+REV00517,Customer_517,Loved the pizza! will order again.,5,ORD00069,Barbeque Nation
+REV00518,Customer_518,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",1,ORD00066,Subway
+REV00519,Customer_519,Not setisfied with the delivery time. Food was okay.,4,ORD00031,Burger King
+REV00520,Customer_520,Exceptional Service and Great taste!.,5,ORD00008,Burger King
+REV00521,Customer_521,Amazing biriyani! Quick delivery and great taste.,3,ORD00038,KFC
+REV00522,Customer_522,Loved the pizza! will order again.,4,ORD00017,Subway
+REV00523,Customer_523,Not setisfied with the delivery time. Food was okay.,4,ORD00043,KFC
+REV00524,Customer_524,Loved the pizza! will order again.,1,ORD00072,Subway
+REV00525,Customer_525,Good service but the food quality was average.,3,ORD00084,Pizza Hut
+REV00526,Customer_526,Good service but the food quality was average.,4,ORD00070,Burger King
+REV00527,Customer_527,Exceptional Service and Great taste!.,5,ORD00002,KFC
+REV00528,Customer_528,Exceptional Service and Great taste!.,1,ORD00093,Burger King
+REV00529,Customer_529,Exceptional Service and Great taste!.,4,ORD00075,Subway
+REV00530,Customer_530,Not setisfied with the delivery time. Food was okay.,2,ORD00069,Dpmino's
+REV00531,Customer_531,Loved the pizza! will order again.,4,ORD00038,KFC
+REV00532,Customer_532,The food was excellent and delivered on time.,1,ORD00083,Burger King
+REV00533,Customer_533,Loved the pizza! will order again.,5,ORD00087,Barbeque Nation
+REV00534,Customer_534,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00037,Barbeque Nation
+REV00535,Customer_535,Exceptional Service and Great taste!.,4,ORD00084,Subway
+REV00536,Customer_536,Not setisfied with the delivery time. Food was okay.,5,ORD00064,Barbeque Nation
+REV00537,Customer_537,Terrible experience! food was cold and delivery was late.,3,ORD00087,KFC
+REV00538,Customer_538,Good service but the food quality was average.,1,ORD00083,McDonasld's
+REV00539,Customer_539,Loved the pizza! will order again.,2,ORD00057,Dpmino's
+REV00540,Customer_540,The pasta was delightful. Delivery would be quicker.,1,ORD00050,Subway
+REV00541,Customer_541,The food was excellent and delivered on time.,1,ORD00099,Pizza Hut
+REV00542,Customer_542,The pasta was delightful. Delivery would be quicker.,3,ORD00058,McDonasld's
+REV00543,Customer_543,The pasta was delightful. Delivery would be quicker.,3,ORD00055,Subway
+REV00544,Customer_544,Terrible experience! food was cold and delivery was late.,3,ORD00029,Burger King
+REV00545,Customer_545,Exceptional Service and Great taste!.,5,ORD00037,Burger King
+REV00546,Customer_546,Amazing biriyani! Quick delivery and great taste.,3,ORD00028,Pizza Hut
+REV00547,Customer_547,Amazing biriyani! Quick delivery and great taste.,3,ORD00091,McDonasld's
+REV00548,Customer_548,Terrible experience! food was cold and delivery was late.,1,ORD00060,McDonasld's
+REV00549,Customer_549,The pasta was delightful. Delivery would be quicker.,2,ORD00052,McDonasld's
+REV00550,Customer_550,The pasta was delightful. Delivery would be quicker.,1,ORD00042,Dpmino's
+REV00551,Customer_551,Exceptional Service and Great taste!.,4,ORD00080,KFC
+REV00552,Customer_552,Loved the pizza! will order again.,1,ORD00031,KFC
+REV00553,Customer_553,The food was excellent and delivered on time.,4,ORD00100,Pizza Hut
+REV00554,Customer_554,Exceptional Service and Great taste!.,2,ORD00030,Dpmino's
+REV00555,Customer_555,Amazing biriyani! Quick delivery and great taste.,4,ORD00063,Pizza Hut
+REV00556,Customer_556,The pasta was delightful. Delivery would be quicker.,3,ORD00060,KFC
+REV00557,Customer_557,The pasta was delightful. Delivery would be quicker.,4,ORD00082,Burger King
+REV00558,Customer_558,Terrible experience! food was cold and delivery was late.,3,ORD00028,Dpmino's
+REV00559,Customer_559,Exceptional Service and Great taste!.,2,ORD00096,McDonasld's
+REV00560,Customer_560,Good service but the food quality was average.,5,ORD00089,Burger King
+REV00561,Customer_561,Exceptional Service and Great taste!.,1,ORD00032,McDonasld's
+REV00562,Customer_562,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00097,Dpmino's
+REV00563,Customer_563,The pasta was delightful. Delivery would be quicker.,1,ORD00089,Barbeque Nation
+REV00564,Customer_564,Good service but the food quality was average.,5,ORD00079,Burger King
+REV00565,Customer_565,The pasta was delightful. Delivery would be quicker.,4,ORD00075,Burger King
+REV00566,Customer_566,Terrible experience! food was cold and delivery was late.,1,ORD00011,Burger King
+REV00567,Customer_567,Loved the pizza! will order again.,4,ORD00006,Subway
+REV00568,Customer_568,Loved the pizza! will order again.,4,ORD00074,Barbeque Nation
+REV00569,Customer_569,Terrible experience! food was cold and delivery was late.,5,ORD00044,KFC
+REV00570,Customer_570,Not setisfied with the delivery time. Food was okay.,3,ORD00050,Dpmino's
+REV00571,Customer_571,Loved the pizza! will order again.,3,ORD00007,KFC
+REV00572,Customer_572,The food was excellent and delivered on time.,3,ORD00055,Pizza Hut
+REV00573,Customer_573,Not setisfied with the delivery time. Food was okay.,2,ORD00055,Pizza Hut
+REV00574,Customer_574,Amazing biriyani! Quick delivery and great taste.,3,ORD00035,Subway
+REV00575,Customer_575,Loved the pizza! will order again.,4,ORD00029,Subway
+REV00576,Customer_576,Not setisfied with the delivery time. Food was okay.,2,ORD00072,Burger King
+REV00577,Customer_577,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",5,ORD00032,Dpmino's
+REV00578,Customer_578,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00022,Pizza Hut
+REV00579,Customer_579,Amazing biriyani! Quick delivery and great taste.,5,ORD00073,Burger King
+REV00580,Customer_580,Good service but the food quality was average.,1,ORD00057,McDonasld's
+REV00581,Customer_581,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",5,ORD00033,Dpmino's
+REV00582,Customer_582,Terrible experience! food was cold and delivery was late.,3,ORD00060,Dpmino's
+REV00583,Customer_583,Exceptional Service and Great taste!.,4,ORD00024,Burger King
+REV00584,Customer_584,Amazing biriyani! Quick delivery and great taste.,5,ORD00086,KFC
+REV00585,Customer_585,Terrible experience! food was cold and delivery was late.,2,ORD00006,McDonasld's
+REV00586,Customer_586,Good service but the food quality was average.,1,ORD00011,Subway
+REV00587,Customer_587,Loved the pizza! will order again.,3,ORD00038,Barbeque Nation
+REV00588,Customer_588,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00035,Burger King
+REV00589,Customer_589,Terrible experience! food was cold and delivery was late.,1,ORD00072,Barbeque Nation
+REV00590,Customer_590,Not setisfied with the delivery time. Food was okay.,4,ORD00075,KFC
+REV00591,Customer_591,Loved the pizza! will order again.,1,ORD00037,Barbeque Nation
+REV00592,Customer_592,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",1,ORD00049,Burger King
+REV00593,Customer_593,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00001,Burger King
+REV00594,Customer_594,Not setisfied with the delivery time. Food was okay.,1,ORD00054,Burger King
+REV00595,Customer_595,Amazing biriyani! Quick delivery and great taste.,4,ORD00026,Burger King
+REV00596,Customer_596,Loved the pizza! will order again.,1,ORD00031,McDonasld's
+REV00597,Customer_597,Loved the pizza! will order again.,2,ORD00097,McDonasld's
+REV00598,Customer_598,Terrible experience! food was cold and delivery was late.,1,ORD00073,Barbeque Nation
+REV00599,Customer_599,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00034,Subway
+REV00600,Customer_600,Good service but the food quality was average.,5,ORD00052,Barbeque Nation
+REV00601,Customer_601,Not setisfied with the delivery time. Food was okay.,2,ORD00010,Dpmino's
+REV00602,Customer_602,Good service but the food quality was average.,3,ORD00055,Pizza Hut
+REV00603,Customer_603,Good service but the food quality was average.,1,ORD00096,McDonasld's
+REV00604,Customer_604,Loved the pizza! will order again.,5,ORD00048,Burger King
+REV00605,Customer_605,Good service but the food quality was average.,4,ORD00096,Burger King
+REV00606,Customer_606,The pasta was delightful. Delivery would be quicker.,1,ORD00098,KFC
+REV00607,Customer_607,Terrible experience! food was cold and delivery was late.,2,ORD00077,KFC
+REV00608,Customer_608,The pasta was delightful. Delivery would be quicker.,1,ORD00058,Dpmino's
+REV00609,Customer_609,The food was excellent and delivered on time.,2,ORD00006,Subway
+REV00610,Customer_610,The pasta was delightful. Delivery would be quicker.,3,ORD00045,Burger King
+REV00611,Customer_611,The food was excellent and delivered on time.,5,ORD00031,Barbeque Nation
+REV00612,Customer_612,Exceptional Service and Great taste!.,2,ORD00035,Barbeque Nation
+REV00613,Customer_613,Good service but the food quality was average.,4,ORD00093,Dpmino's
+REV00614,Customer_614,Terrible experience! food was cold and delivery was late.,1,ORD00089,Burger King
+REV00615,Customer_615,Loved the pizza! will order again.,2,ORD00040,Pizza Hut
+REV00616,Customer_616,Not setisfied with the delivery time. Food was okay.,5,ORD00068,Dpmino's
+REV00617,Customer_617,The food was excellent and delivered on time.,1,ORD00099,McDonasld's
+REV00618,Customer_618,Terrible experience! food was cold and delivery was late.,1,ORD00051,Barbeque Nation
+REV00619,Customer_619,Good service but the food quality was average.,4,ORD00084,Burger King
+REV00620,Customer_620,The pasta was delightful. Delivery would be quicker.,3,ORD00061,Barbeque Nation
+REV00621,Customer_621,Not setisfied with the delivery time. Food was okay.,4,ORD00036,McDonasld's
+REV00622,Customer_622,Exceptional Service and Great taste!.,1,ORD00010,Burger King
+REV00623,Customer_623,Exceptional Service and Great taste!.,5,ORD00045,McDonasld's
+REV00624,Customer_624,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00098,McDonasld's
+REV00625,Customer_625,The pasta was delightful. Delivery would be quicker.,4,ORD00091,Subway
+REV00626,Customer_626,Loved the pizza! will order again.,5,ORD00056,Subway
+REV00627,Customer_627,Amazing biriyani! Quick delivery and great taste.,1,ORD00050,Barbeque Nation
+REV00628,Customer_628,The pasta was delightful. Delivery would be quicker.,2,ORD00069,McDonasld's
+REV00629,Customer_629,Amazing biriyani! Quick delivery and great taste.,3,ORD00088,KFC
+REV00630,Customer_630,Terrible experience! food was cold and delivery was late.,5,ORD00034,Barbeque Nation
+REV00631,Customer_631,Amazing biriyani! Quick delivery and great taste.,3,ORD00096,KFC
+REV00632,Customer_632,Good service but the food quality was average.,1,ORD00026,Subway
+REV00633,Customer_633,Loved the pizza! will order again.,4,ORD00080,KFC
+REV00634,Customer_634,The food was excellent and delivered on time.,3,ORD00050,McDonasld's
+REV00635,Customer_635,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",2,ORD00086,Pizza Hut
+REV00636,Customer_636,The pasta was delightful. Delivery would be quicker.,5,ORD00064,Subway
+REV00637,Customer_637,The pasta was delightful. Delivery would be quicker.,2,ORD00021,Pizza Hut
+REV00638,Customer_638,Loved the pizza! will order again.,5,ORD00091,Subway
+REV00639,Customer_639,Terrible experience! food was cold and delivery was late.,5,ORD00007,Dpmino's
+REV00640,Customer_640,Good service but the food quality was average.,3,ORD00013,Burger King
+REV00641,Customer_641,Not setisfied with the delivery time. Food was okay.,2,ORD00019,KFC
+REV00642,Customer_642,The food was excellent and delivered on time.,5,ORD00040,Barbeque Nation
+REV00643,Customer_643,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",2,ORD00023,Barbeque Nation
+REV00644,Customer_644,Terrible experience! food was cold and delivery was late.,1,ORD00007,Burger King
+REV00645,Customer_645,Terrible experience! food was cold and delivery was late.,5,ORD00087,Subway
+REV00646,Customer_646,Terrible experience! food was cold and delivery was late.,1,ORD00019,McDonasld's
+REV00647,Customer_647,Terrible experience! food was cold and delivery was late.,1,ORD00052,Subway
+REV00648,Customer_648,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",5,ORD00072,Barbeque Nation
+REV00649,Customer_649,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00085,Burger King
+REV00650,Customer_650,Loved the pizza! will order again.,5,ORD00009,McDonasld's
+REV00651,Customer_651,Amazing biriyani! Quick delivery and great taste.,3,ORD00085,KFC
+REV00652,Customer_652,The pasta was delightful. Delivery would be quicker.,5,ORD00097,Dpmino's
+REV00653,Customer_653,Exceptional Service and Great taste!.,4,ORD00002,Burger King
+REV00654,Customer_654,Not setisfied with the delivery time. Food was okay.,1,ORD00003,McDonasld's
+REV00655,Customer_655,Terrible experience! food was cold and delivery was late.,3,ORD00053,Pizza Hut
+REV00656,Customer_656,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",5,ORD00061,Barbeque Nation
+REV00657,Customer_657,Exceptional Service and Great taste!.,3,ORD00088,Dpmino's
+REV00658,Customer_658,Loved the pizza! will order again.,1,ORD00083,Burger King
+REV00659,Customer_659,Terrible experience! food was cold and delivery was late.,3,ORD00016,Subway
+REV00660,Customer_660,Good service but the food quality was average.,3,ORD00096,McDonasld's
+REV00661,Customer_661,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00088,Dpmino's
+REV00662,Customer_662,The pasta was delightful. Delivery would be quicker.,2,ORD00096,Burger King
+REV00663,Customer_663,Good service but the food quality was average.,4,ORD00064,Dpmino's
+REV00664,Customer_664,Terrible experience! food was cold and delivery was late.,4,ORD00015,Pizza Hut
+REV00665,Customer_665,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",1,ORD00036,Pizza Hut
+REV00666,Customer_666,The pasta was delightful. Delivery would be quicker.,1,ORD00069,Barbeque Nation
+REV00667,Customer_667,The food was excellent and delivered on time.,4,ORD00013,Pizza Hut
+REV00668,Customer_668,Loved the pizza! will order again.,5,ORD00092,Pizza Hut
+REV00669,Customer_669,Loved the pizza! will order again.,4,ORD00075,KFC
+REV00670,Customer_670,Good service but the food quality was average.,2,ORD00086,Dpmino's
+REV00671,Customer_671,Amazing biriyani! Quick delivery and great taste.,5,ORD00086,Barbeque Nation
+REV00672,Customer_672,Good service but the food quality was average.,2,ORD00055,KFC
+REV00673,Customer_673,Amazing biriyani! Quick delivery and great taste.,3,ORD00006,Dpmino's
+REV00674,Customer_674,Amazing biriyani! Quick delivery and great taste.,2,ORD00004,KFC
+REV00675,Customer_675,Terrible experience! food was cold and delivery was late.,2,ORD00100,Pizza Hut
+REV00676,Customer_676,Exceptional Service and Great taste!.,4,ORD00026,Pizza Hut
+REV00677,Customer_677,Not setisfied with the delivery time. Food was okay.,4,ORD00055,KFC
+REV00678,Customer_678,The food was excellent and delivered on time.,1,ORD00070,Subway
+REV00679,Customer_679,The food was excellent and delivered on time.,2,ORD00080,KFC
+REV00680,Customer_680,The pasta was delightful. Delivery would be quicker.,4,ORD00080,Barbeque Nation
+REV00681,Customer_681,Good service but the food quality was average.,5,ORD00093,Dpmino's
+REV00682,Customer_682,The food was excellent and delivered on time.,4,ORD00091,Pizza Hut
+REV00683,Customer_683,The food was excellent and delivered on time.,4,ORD00023,Dpmino's
+REV00684,Customer_684,The food was excellent and delivered on time.,3,ORD00004,Pizza Hut
+REV00685,Customer_685,Amazing biriyani! Quick delivery and great taste.,2,ORD00034,McDonasld's
+REV00686,Customer_686,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00091,Subway
+REV00687,Customer_687,Amazing biriyani! Quick delivery and great taste.,4,ORD00018,Pizza Hut
+REV00688,Customer_688,Exceptional Service and Great taste!.,1,ORD00069,KFC
+REV00689,Customer_689,Amazing biriyani! Quick delivery and great taste.,5,ORD00063,Barbeque Nation
+REV00690,Customer_690,Exceptional Service and Great taste!.,4,ORD00024,Barbeque Nation
+REV00691,Customer_691,Not setisfied with the delivery time. Food was okay.,4,ORD00086,KFC
+REV00692,Customer_692,Loved the pizza! will order again.,1,ORD00011,Subway
+REV00693,Customer_693,The food was excellent and delivered on time.,1,ORD00030,Barbeque Nation
+REV00694,Customer_694,The food was excellent and delivered on time.,3,ORD00032,Dpmino's
+REV00695,Customer_695,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",5,ORD00051,Subway
+REV00696,Customer_696,Not setisfied with the delivery time. Food was okay.,4,ORD00067,KFC
+REV00697,Customer_697,The food was excellent and delivered on time.,5,ORD00055,KFC
+REV00698,Customer_698,Amazing biriyani! Quick delivery and great taste.,4,ORD00032,KFC
+REV00699,Customer_699,The food was excellent and delivered on time.,3,ORD00060,KFC
+REV00700,Customer_700,Exceptional Service and Great taste!.,3,ORD00012,Pizza Hut
+REV00701,Customer_701,The food was excellent and delivered on time.,5,ORD00031,Barbeque Nation
+REV00702,Customer_702,The pasta was delightful. Delivery would be quicker.,1,ORD00020,McDonasld's
+REV00703,Customer_703,The pasta was delightful. Delivery would be quicker.,1,ORD00007,Barbeque Nation
+REV00704,Customer_704,Loved the pizza! will order again.,2,ORD00043,Pizza Hut
+REV00705,Customer_705,The food was excellent and delivered on time.,3,ORD00038,Subway
+REV00706,Customer_706,Amazing biriyani! Quick delivery and great taste.,3,ORD00096,Burger King
+REV00707,Customer_707,The pasta was delightful. Delivery would be quicker.,3,ORD00079,Burger King
+REV00708,Customer_708,Amazing biriyani! Quick delivery and great taste.,2,ORD00003,Subway
+REV00709,Customer_709,Terrible experience! food was cold and delivery was late.,1,ORD00066,McDonasld's
+REV00710,Customer_710,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",1,ORD00011,KFC
+REV00711,Customer_711,Exceptional Service and Great taste!.,3,ORD00070,Dpmino's
+REV00712,Customer_712,The pasta was delightful. Delivery would be quicker.,3,ORD00051,KFC
+REV00713,Customer_713,Good service but the food quality was average.,1,ORD00024,KFC
+REV00714,Customer_714,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00048,McDonasld's
+REV00715,Customer_715,Amazing biriyani! Quick delivery and great taste.,3,ORD00048,Burger King
+REV00716,Customer_716,The food was excellent and delivered on time.,4,ORD00005,Burger King
+REV00717,Customer_717,Good service but the food quality was average.,3,ORD00012,Barbeque Nation
+REV00718,Customer_718,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",1,ORD00013,McDonasld's
+REV00719,Customer_719,The food was excellent and delivered on time.,5,ORD00052,KFC
+REV00720,Customer_720,The food was excellent and delivered on time.,3,ORD00061,Burger King
+REV00721,Customer_721,The pasta was delightful. Delivery would be quicker.,5,ORD00027,Dpmino's
+REV00722,Customer_722,The food was excellent and delivered on time.,5,ORD00011,KFC
+REV00723,Customer_723,Exceptional Service and Great taste!.,5,ORD00046,Pizza Hut
+REV00724,Customer_724,The pasta was delightful. Delivery would be quicker.,5,ORD00033,McDonasld's
+REV00725,Customer_725,Amazing biriyani! Quick delivery and great taste.,5,ORD00060,Burger King
+REV00726,Customer_726,Exceptional Service and Great taste!.,1,ORD00057,McDonasld's
+REV00727,Customer_727,Good service but the food quality was average.,4,ORD00018,Pizza Hut
+REV00728,Customer_728,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",2,ORD00064,KFC
+REV00729,Customer_729,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",5,ORD00100,KFC
+REV00730,Customer_730,Not setisfied with the delivery time. Food was okay.,2,ORD00081,McDonasld's
+REV00731,Customer_731,The pasta was delightful. Delivery would be quicker.,2,ORD00077,KFC
+REV00732,Customer_732,Amazing biriyani! Quick delivery and great taste.,5,ORD00014,McDonasld's
+REV00733,Customer_733,Exceptional Service and Great taste!.,1,ORD00058,KFC
+REV00734,Customer_734,Not setisfied with the delivery time. Food was okay.,2,ORD00060,Pizza Hut
+REV00735,Customer_735,The food was excellent and delivered on time.,3,ORD00022,Pizza Hut
+REV00736,Customer_736,Good service but the food quality was average.,2,ORD00027,Burger King
+REV00737,Customer_737,Exceptional Service and Great taste!.,3,ORD00032,Pizza Hut
+REV00738,Customer_738,Amazing biriyani! Quick delivery and great taste.,2,ORD00055,Pizza Hut
+REV00739,Customer_739,Good service but the food quality was average.,2,ORD00068,Dpmino's
+REV00740,Customer_740,Not setisfied with the delivery time. Food was okay.,5,ORD00077,Barbeque Nation
+REV00741,Customer_741,Exceptional Service and Great taste!.,2,ORD00012,KFC
+REV00742,Customer_742,Good service but the food quality was average.,1,ORD00094,Pizza Hut
+REV00743,Customer_743,Exceptional Service and Great taste!.,1,ORD00027,Pizza Hut
+REV00744,Customer_744,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00077,McDonasld's
+REV00745,Customer_745,Not setisfied with the delivery time. Food was okay.,4,ORD00049,KFC
+REV00746,Customer_746,Exceptional Service and Great taste!.,2,ORD00065,Subway
+REV00747,Customer_747,Not setisfied with the delivery time. Food was okay.,2,ORD00073,Barbeque Nation
+REV00748,Customer_748,The food was excellent and delivered on time.,2,ORD00005,Dpmino's
+REV00749,Customer_749,Loved the pizza! will order again.,1,ORD00066,Dpmino's
+REV00750,Customer_750,The pasta was delightful. Delivery would be quicker.,2,ORD00063,Pizza Hut
+REV00751,Customer_751,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",2,ORD00045,Burger King
+REV00752,Customer_752,Exceptional Service and Great taste!.,4,ORD00028,Barbeque Nation
+REV00753,Customer_753,The pasta was delightful. Delivery would be quicker.,4,ORD00085,Burger King
+REV00754,Customer_754,Not setisfied with the delivery time. Food was okay.,3,ORD00082,Barbeque Nation
+REV00755,Customer_755,The pasta was delightful. Delivery would be quicker.,3,ORD00005,Subway
+REV00756,Customer_756,Exceptional Service and Great taste!.,5,ORD00098,Barbeque Nation
+REV00757,Customer_757,Not setisfied with the delivery time. Food was okay.,1,ORD00070,Pizza Hut
+REV00758,Customer_758,Exceptional Service and Great taste!.,5,ORD00050,Subway
+REV00759,Customer_759,Exceptional Service and Great taste!.,1,ORD00074,Pizza Hut
+REV00760,Customer_760,The food was excellent and delivered on time.,5,ORD00037,McDonasld's
+REV00761,Customer_761,The food was excellent and delivered on time.,4,ORD00064,Dpmino's
+REV00762,Customer_762,Not setisfied with the delivery time. Food was okay.,3,ORD00063,McDonasld's
+REV00763,Customer_763,The pasta was delightful. Delivery would be quicker.,5,ORD00076,Barbeque Nation
+REV00764,Customer_764,The food was excellent and delivered on time.,2,ORD00045,Dpmino's
+REV00765,Customer_765,Loved the pizza! will order again.,1,ORD00087,Pizza Hut
+REV00766,Customer_766,Exceptional Service and Great taste!.,4,ORD00085,Barbeque Nation
+REV00767,Customer_767,Good service but the food quality was average.,3,ORD00074,Pizza Hut
+REV00768,Customer_768,Good service but the food quality was average.,4,ORD00085,Subway
+REV00769,Customer_769,Good service but the food quality was average.,4,ORD00060,McDonasld's
+REV00770,Customer_770,The pasta was delightful. Delivery would be quicker.,2,ORD00018,KFC
+REV00771,Customer_771,Not setisfied with the delivery time. Food was okay.,1,ORD00013,KFC
+REV00772,Customer_772,Amazing biriyani! Quick delivery and great taste.,5,ORD00027,McDonasld's
+REV00773,Customer_773,The food was excellent and delivered on time.,2,ORD00090,Subway
+REV00774,Customer_774,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00059,McDonasld's
+REV00775,Customer_775,Not setisfied with the delivery time. Food was okay.,2,ORD00089,McDonasld's
+REV00776,Customer_776,Not setisfied with the delivery time. Food was okay.,5,ORD00023,Barbeque Nation
+REV00777,Customer_777,Not setisfied with the delivery time. Food was okay.,1,ORD00089,Burger King
+REV00778,Customer_778,The food was excellent and delivered on time.,2,ORD00037,Pizza Hut
+REV00779,Customer_779,The pasta was delightful. Delivery would be quicker.,5,ORD00098,Burger King
+REV00780,Customer_780,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",1,ORD00072,Pizza Hut
+REV00781,Customer_781,Terrible experience! food was cold and delivery was late.,3,ORD00080,Dpmino's
+REV00782,Customer_782,Good service but the food quality was average.,2,ORD00023,KFC
+REV00783,Customer_783,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00013,Barbeque Nation
+REV00784,Customer_784,Amazing biriyani! Quick delivery and great taste.,3,ORD00018,Pizza Hut
+REV00785,Customer_785,Loved the pizza! will order again.,5,ORD00077,Subway
+REV00786,Customer_786,The food was excellent and delivered on time.,4,ORD00020,Subway
+REV00787,Customer_787,Not setisfied with the delivery time. Food was okay.,5,ORD00021,KFC
+REV00788,Customer_788,Terrible experience! food was cold and delivery was late.,4,ORD00016,Subway
+REV00789,Customer_789,Not setisfied with the delivery time. Food was okay.,3,ORD00024,KFC
+REV00790,Customer_790,Loved the pizza! will order again.,4,ORD00085,KFC
+REV00791,Customer_791,Not setisfied with the delivery time. Food was okay.,2,ORD00035,Burger King
+REV00792,Customer_792,Amazing biriyani! Quick delivery and great taste.,2,ORD00093,Subway
+REV00793,Customer_793,Good service but the food quality was average.,3,ORD00005,McDonasld's
+REV00794,Customer_794,Loved the pizza! will order again.,1,ORD00014,Dpmino's
+REV00795,Customer_795,Good service but the food quality was average.,2,ORD00064,Barbeque Nation
+REV00796,Customer_796,Terrible experience! food was cold and delivery was late.,5,ORD00045,Barbeque Nation
+REV00797,Customer_797,Loved the pizza! will order again.,3,ORD00098,Subway
+REV00798,Customer_798,Loved the pizza! will order again.,5,ORD00066,KFC
+REV00799,Customer_799,Amazing biriyani! Quick delivery and great taste.,2,ORD00036,Burger King
+REV00800,Customer_800,Exceptional Service and Great taste!.,4,ORD00036,Barbeque Nation
+REV00801,Customer_801,The food was excellent and delivered on time.,1,ORD00034,Subway
+REV00802,Customer_802,Terrible experience! food was cold and delivery was late.,5,ORD00033,McDonasld's
+REV00803,Customer_803,The pasta was delightful. Delivery would be quicker.,1,ORD00092,Barbeque Nation
+REV00804,Customer_804,Terrible experience! food was cold and delivery was late.,1,ORD00010,Subway
+REV00805,Customer_805,Terrible experience! food was cold and delivery was late.,5,ORD00005,KFC
+REV00806,Customer_806,Not setisfied with the delivery time. Food was okay.,4,ORD00047,Dpmino's
+REV00807,Customer_807,Exceptional Service and Great taste!.,5,ORD00038,Barbeque Nation
+REV00808,Customer_808,Loved the pizza! will order again.,3,ORD00001,Dpmino's
+REV00809,Customer_809,Exceptional Service and Great taste!.,2,ORD00013,Pizza Hut
+REV00810,Customer_810,Exceptional Service and Great taste!.,2,ORD00052,Dpmino's
+REV00811,Customer_811,Amazing biriyani! Quick delivery and great taste.,2,ORD00088,KFC
+REV00812,Customer_812,Terrible experience! food was cold and delivery was late.,2,ORD00093,Pizza Hut
+REV00813,Customer_813,Loved the pizza! will order again.,3,ORD00052,Dpmino's
+REV00814,Customer_814,Terrible experience! food was cold and delivery was late.,4,ORD00096,Pizza Hut
+REV00815,Customer_815,Exceptional Service and Great taste!.,5,ORD00025,Barbeque Nation
+REV00816,Customer_816,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",2,ORD00019,Burger King
+REV00817,Customer_817,Exceptional Service and Great taste!.,2,ORD00069,Burger King
+REV00818,Customer_818,Good service but the food quality was average.,1,ORD00050,Subway
+REV00819,Customer_819,The pasta was delightful. Delivery would be quicker.,5,ORD00029,Burger King
+REV00820,Customer_820,Loved the pizza! will order again.,3,ORD00059,Dpmino's
+REV00821,Customer_821,Not setisfied with the delivery time. Food was okay.,4,ORD00066,Barbeque Nation
+REV00822,Customer_822,Terrible experience! food was cold and delivery was late.,1,ORD00066,Dpmino's
+REV00823,Customer_823,Terrible experience! food was cold and delivery was late.,1,ORD00061,Burger King
+REV00824,Customer_824,The food was excellent and delivered on time.,4,ORD00070,Subway
+REV00825,Customer_825,Good service but the food quality was average.,3,ORD00015,McDonasld's
+REV00826,Customer_826,Amazing biriyani! Quick delivery and great taste.,4,ORD00093,McDonasld's
+REV00827,Customer_827,Not setisfied with the delivery time. Food was okay.,5,ORD00049,KFC
+REV00828,Customer_828,Not setisfied with the delivery time. Food was okay.,5,ORD00021,Burger King
+REV00829,Customer_829,Amazing biriyani! Quick delivery and great taste.,2,ORD00035,Barbeque Nation
+REV00830,Customer_830,The pasta was delightful. Delivery would be quicker.,2,ORD00006,Burger King
+REV00831,Customer_831,Amazing biriyani! Quick delivery and great taste.,5,ORD00018,Pizza Hut
+REV00832,Customer_832,Exceptional Service and Great taste!.,4,ORD00085,Burger King
+REV00833,Customer_833,Terrible experience! food was cold and delivery was late.,1,ORD00014,Dpmino's
+REV00834,Customer_834,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00046,Barbeque Nation
+REV00835,Customer_835,The food was excellent and delivered on time.,4,ORD00069,Pizza Hut
+REV00836,Customer_836,Loved the pizza! will order again.,2,ORD00014,Dpmino's
+REV00837,Customer_837,The pasta was delightful. Delivery would be quicker.,5,ORD00086,Barbeque Nation
+REV00838,Customer_838,Amazing biriyani! Quick delivery and great taste.,5,ORD00002,KFC
+REV00839,Customer_839,Terrible experience! food was cold and delivery was late.,2,ORD00030,KFC
+REV00840,Customer_840,Good service but the food quality was average.,5,ORD00052,McDonasld's
+REV00841,Customer_841,The food was excellent and delivered on time.,2,ORD00090,Barbeque Nation
+REV00842,Customer_842,Loved the pizza! will order again.,3,ORD00018,Burger King
+REV00843,Customer_843,Not setisfied with the delivery time. Food was okay.,2,ORD00031,KFC
+REV00844,Customer_844,Loved the pizza! will order again.,3,ORD00048,KFC
+REV00845,Customer_845,Exceptional Service and Great taste!.,3,ORD00017,Subway
+REV00846,Customer_846,Loved the pizza! will order again.,2,ORD00012,Burger King
+REV00847,Customer_847,Terrible experience! food was cold and delivery was late.,2,ORD00016,Barbeque Nation
+REV00848,Customer_848,The food was excellent and delivered on time.,1,ORD00076,Barbeque Nation
+REV00849,Customer_849,Terrible experience! food was cold and delivery was late.,3,ORD00048,KFC
+REV00850,Customer_850,The food was excellent and delivered on time.,3,ORD00026,Dpmino's
+REV00851,Customer_851,Terrible experience! food was cold and delivery was late.,1,ORD00071,Burger King
+REV00852,Customer_852,Not setisfied with the delivery time. Food was okay.,5,ORD00047,Subway
+REV00853,Customer_853,The food was excellent and delivered on time.,4,ORD00028,Barbeque Nation
+REV00854,Customer_854,Good service but the food quality was average.,2,ORD00086,Pizza Hut
+REV00855,Customer_855,The food was excellent and delivered on time.,2,ORD00003,McDonasld's
+REV00856,Customer_856,Exceptional Service and Great taste!.,4,ORD00067,Subway
+REV00857,Customer_857,Good service but the food quality was average.,4,ORD00031,Barbeque Nation
+REV00858,Customer_858,Good service but the food quality was average.,2,ORD00044,KFC
+REV00859,Customer_859,Loved the pizza! will order again.,2,ORD00036,Burger King
+REV00860,Customer_860,The pasta was delightful. Delivery would be quicker.,4,ORD00096,Pizza Hut
+REV00861,Customer_861,The pasta was delightful. Delivery would be quicker.,1,ORD00040,KFC
+REV00862,Customer_862,Good service but the food quality was average.,4,ORD00009,McDonasld's
+REV00863,Customer_863,The pasta was delightful. Delivery would be quicker.,3,ORD00071,Pizza Hut
+REV00864,Customer_864,Amazing biriyani! Quick delivery and great taste.,1,ORD00065,Barbeque Nation
+REV00865,Customer_865,Good service but the food quality was average.,3,ORD00083,McDonasld's
+REV00866,Customer_866,Amazing biriyani! Quick delivery and great taste.,5,ORD00076,KFC
+REV00867,Customer_867,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",5,ORD00030,Barbeque Nation
+REV00868,Customer_868,The food was excellent and delivered on time.,5,ORD00086,McDonasld's
+REV00869,Customer_869,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",2,ORD00043,Burger King
+REV00870,Customer_870,Terrible experience! food was cold and delivery was late.,3,ORD00021,Pizza Hut
+REV00871,Customer_871,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00014,Dpmino's
+REV00872,Customer_872,Amazing biriyani! Quick delivery and great taste.,5,ORD00015,Burger King
+REV00873,Customer_873,Amazing biriyani! Quick delivery and great taste.,4,ORD00092,Barbeque Nation
+REV00874,Customer_874,The pasta was delightful. Delivery would be quicker.,3,ORD00039,Burger King
+REV00875,Customer_875,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00072,Subway
+REV00876,Customer_876,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00080,Barbeque Nation
+REV00877,Customer_877,Exceptional Service and Great taste!.,4,ORD00081,Subway
+REV00878,Customer_878,Exceptional Service and Great taste!.,3,ORD00093,KFC
+REV00879,Customer_879,The food was excellent and delivered on time.,2,ORD00095,Subway
+REV00880,Customer_880,Amazing biriyani! Quick delivery and great taste.,3,ORD00029,Pizza Hut
+REV00881,Customer_881,Terrible experience! food was cold and delivery was late.,3,ORD00091,Subway
+REV00882,Customer_882,Exceptional Service and Great taste!.,1,ORD00041,Dpmino's
+REV00883,Customer_883,The pasta was delightful. Delivery would be quicker.,5,ORD00080,Burger King
+REV00884,Customer_884,Not setisfied with the delivery time. Food was okay.,2,ORD00034,Pizza Hut
+REV00885,Customer_885,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",1,ORD00013,KFC
+REV00886,Customer_886,The food was excellent and delivered on time.,2,ORD00006,Burger King
+REV00887,Customer_887,Not setisfied with the delivery time. Food was okay.,5,ORD00032,Pizza Hut
+REV00888,Customer_888,Good service but the food quality was average.,4,ORD00070,Pizza Hut
+REV00889,Customer_889,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00053,KFC
+REV00890,Customer_890,Terrible experience! food was cold and delivery was late.,1,ORD00036,Burger King
+REV00891,Customer_891,Good service but the food quality was average.,3,ORD00056,McDonasld's
+REV00892,Customer_892,The pasta was delightful. Delivery would be quicker.,5,ORD00004,Burger King
+REV00893,Customer_893,Not setisfied with the delivery time. Food was okay.,4,ORD00008,Dpmino's
+REV00894,Customer_894,Exceptional Service and Great taste!.,5,ORD00008,Pizza Hut
+REV00895,Customer_895,Exceptional Service and Great taste!.,1,ORD00013,Barbeque Nation
+REV00896,Customer_896,Amazing biriyani! Quick delivery and great taste.,1,ORD00062,McDonasld's
+REV00897,Customer_897,Good service but the food quality was average.,2,ORD00030,Subway
+REV00898,Customer_898,The food was excellent and delivered on time.,4,ORD00046,Pizza Hut
+REV00899,Customer_899,Good service but the food quality was average.,1,ORD00070,KFC
+REV00900,Customer_900,The food was excellent and delivered on time.,1,ORD00047,Barbeque Nation
+REV00901,Customer_901,Amazing biriyani! Quick delivery and great taste.,4,ORD00038,McDonasld's
+REV00902,Customer_902,The food was excellent and delivered on time.,3,ORD00075,McDonasld's
+REV00903,Customer_903,Not setisfied with the delivery time. Food was okay.,2,ORD00043,Burger King
+REV00904,Customer_904,Terrible experience! food was cold and delivery was late.,4,ORD00070,McDonasld's
+REV00905,Customer_905,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00038,Pizza Hut
+REV00906,Customer_906,Amazing biriyani! Quick delivery and great taste.,1,ORD00030,Pizza Hut
+REV00907,Customer_907,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00039,Pizza Hut
+REV00908,Customer_908,The pasta was delightful. Delivery would be quicker.,5,ORD00025,McDonasld's
+REV00909,Customer_909,Good service but the food quality was average.,4,ORD00054,KFC
+REV00910,Customer_910,Terrible experience! food was cold and delivery was late.,2,ORD00064,Subway
+REV00911,Customer_911,The food was excellent and delivered on time.,2,ORD00050,Subway
+REV00912,Customer_912,Good service but the food quality was average.,4,ORD00082,KFC
+REV00913,Customer_913,Good service but the food quality was average.,2,ORD00043,Pizza Hut
+REV00914,Customer_914,Amazing biriyani! Quick delivery and great taste.,5,ORD00028,Pizza Hut
+REV00915,Customer_915,Exceptional Service and Great taste!.,1,ORD00085,Pizza Hut
+REV00916,Customer_916,Good service but the food quality was average.,1,ORD00017,Subway
+REV00917,Customer_917,Loved the pizza! will order again.,2,ORD00038,Dpmino's
+REV00918,Customer_918,The pasta was delightful. Delivery would be quicker.,5,ORD00039,Barbeque Nation
+REV00919,Customer_919,The pasta was delightful. Delivery would be quicker.,2,ORD00048,Dpmino's
+REV00920,Customer_920,Not setisfied with the delivery time. Food was okay.,3,ORD00090,Barbeque Nation
+REV00921,Customer_921,Good service but the food quality was average.,1,ORD00052,McDonasld's
+REV00922,Customer_922,Loved the pizza! will order again.,5,ORD00051,Dpmino's
+REV00923,Customer_923,The food was excellent and delivered on time.,1,ORD00078,Pizza Hut
+REV00924,Customer_924,Terrible experience! food was cold and delivery was late.,3,ORD00031,McDonasld's
+REV00925,Customer_925,Exceptional Service and Great taste!.,5,ORD00081,Barbeque Nation
+REV00926,Customer_926,The pasta was delightful. Delivery would be quicker.,3,ORD00077,KFC
+REV00927,Customer_927,Amazing biriyani! Quick delivery and great taste.,2,ORD00012,Dpmino's
+REV00928,Customer_928,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00064,Burger King
+REV00929,Customer_929,Good service but the food quality was average.,4,ORD00020,Pizza Hut
+REV00930,Customer_930,Good service but the food quality was average.,1,ORD00056,Pizza Hut
+REV00931,Customer_931,The pasta was delightful. Delivery would be quicker.,2,ORD00094,Subway
+REV00932,Customer_932,Amazing biriyani! Quick delivery and great taste.,5,ORD00087,McDonasld's
+REV00933,Customer_933,Exceptional Service and Great taste!.,3,ORD00001,McDonasld's
+REV00934,Customer_934,Not setisfied with the delivery time. Food was okay.,1,ORD00052,Burger King
+REV00935,Customer_935,Not setisfied with the delivery time. Food was okay.,2,ORD00037,Subway
+REV00936,Customer_936,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",2,ORD00063,KFC
+REV00937,Customer_937,Exceptional Service and Great taste!.,4,ORD00064,Subway
+REV00938,Customer_938,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",5,ORD00018,Subway
+REV00939,Customer_939,The pasta was delightful. Delivery would be quicker.,2,ORD00029,Burger King
+REV00940,Customer_940,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",2,ORD00035,Subway
+REV00941,Customer_941,Amazing biriyani! Quick delivery and great taste.,3,ORD00069,Burger King
+REV00942,Customer_942,The food was excellent and delivered on time.,3,ORD00043,Barbeque Nation
+REV00943,Customer_943,Good service but the food quality was average.,2,ORD00072,Pizza Hut
+REV00944,Customer_944,Terrible experience! food was cold and delivery was late.,4,ORD00087,Subway
+REV00945,Customer_945,The pasta was delightful. Delivery would be quicker.,3,ORD00006,Pizza Hut
+REV00946,Customer_946,Not setisfied with the delivery time. Food was okay.,1,ORD00073,Burger King
+REV00947,Customer_947,Amazing biriyani! Quick delivery and great taste.,1,ORD00072,McDonasld's
+REV00948,Customer_948,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00037,KFC
+REV00949,Customer_949,Good service but the food quality was average.,4,ORD00049,Pizza Hut
+REV00950,Customer_950,The pasta was delightful. Delivery would be quicker.,1,ORD00080,Dpmino's
+REV00951,Customer_951,Amazing biriyani! Quick delivery and great taste.,2,ORD00013,Pizza Hut
+REV00952,Customer_952,Amazing biriyani! Quick delivery and great taste.,3,ORD00047,Pizza Hut
+REV00953,Customer_953,The pasta was delightful. Delivery would be quicker.,4,ORD00024,Barbeque Nation
+REV00954,Customer_954,Amazing biriyani! Quick delivery and great taste.,1,ORD00004,McDonasld's
+REV00955,Customer_955,Good service but the food quality was average.,5,ORD00090,KFC
+REV00956,Customer_956,Amazing biriyani! Quick delivery and great taste.,5,ORD00057,Barbeque Nation
+REV00957,Customer_957,Terrible experience! food was cold and delivery was late.,2,ORD00077,McDonasld's
+REV00958,Customer_958,Good service but the food quality was average.,1,ORD00080,McDonasld's
+REV00959,Customer_959,Not setisfied with the delivery time. Food was okay.,5,ORD00063,Barbeque Nation
+REV00960,Customer_960,The pasta was delightful. Delivery would be quicker.,1,ORD00096,Subway
+REV00961,Customer_961,Loved the pizza! will order again.,3,ORD00077,KFC
+REV00962,Customer_962,Exceptional Service and Great taste!.,1,ORD00023,Pizza Hut
+REV00963,Customer_963,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",5,ORD00023,Subway
+REV00964,Customer_964,Amazing biriyani! Quick delivery and great taste.,3,ORD00088,Barbeque Nation
+REV00965,Customer_965,The food was excellent and delivered on time.,2,ORD00048,Subway
+REV00966,Customer_966,Exceptional Service and Great taste!.,3,ORD00087,Burger King
+REV00967,Customer_967,The pasta was delightful. Delivery would be quicker.,5,ORD00011,Burger King
+REV00968,Customer_968,Loved the pizza! will order again.,2,ORD00094,Barbeque Nation
+REV00969,Customer_969,Terrible experience! food was cold and delivery was late.,3,ORD00071,Burger King
+REV00970,Customer_970,Amazing biriyani! Quick delivery and great taste.,4,ORD00094,KFC
+REV00971,Customer_971,The pasta was delightful. Delivery would be quicker.,3,ORD00091,McDonasld's
+REV00972,Customer_972,The food was excellent and delivered on time.,1,ORD00088,Barbeque Nation
+REV00973,Customer_973,The food was excellent and delivered on time.,1,ORD00054,Pizza Hut
+REV00974,Customer_974,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",2,ORD00039,Burger King
+REV00975,Customer_975,Terrible experience! food was cold and delivery was late.,1,ORD00093,Subway
+REV00976,Customer_976,Exceptional Service and Great taste!.,4,ORD00074,Barbeque Nation
+REV00977,Customer_977,Good service but the food quality was average.,3,ORD00092,Pizza Hut
+REV00978,Customer_978,The food was excellent and delivered on time.,5,ORD00079,Pizza Hut
+REV00979,Customer_979,Exceptional Service and Great taste!.,2,ORD00016,Barbeque Nation
+REV00980,Customer_980,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",1,ORD00004,Burger King
+REV00981,Customer_981,Not setisfied with the delivery time. Food was okay.,3,ORD00075,Barbeque Nation
+REV00982,Customer_982,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",4,ORD00043,Pizza Hut
+REV00983,Customer_983,Loved the pizza! will order again.,3,ORD00002,Burger King
+REV00984,Customer_984,The food was excellent and delivered on time.,1,ORD00046,Pizza Hut
+REV00985,Customer_985,Good service but the food quality was average.,1,ORD00046,Subway
+REV00986,Customer_986,Amazing biriyani! Quick delivery and great taste.,3,ORD00084,Burger King
+REV00987,Customer_987,The food was excellent and delivered on time.,4,ORD00001,Dpmino's
+REV00988,Customer_988,The pasta was delightful. Delivery would be quicker.,1,ORD00093,Dpmino's
+REV00989,Customer_989,Not setisfied with the delivery time. Food was okay.,4,ORD00020,Pizza Hut
+REV00990,Customer_990,Good service but the food quality was average.,2,ORD00063,Dpmino's
+REV00991,Customer_991,Loved the pizza! will order again.,1,ORD00051,Dpmino's
+REV00992,Customer_992,Terrible experience! food was cold and delivery was late.,1,ORD00092,Barbeque Nation
+REV00993,Customer_993,Loved the pizza! will order again.,4,ORD00019,Dpmino's
+REV00994,Customer_994,Exceptional Service and Great taste!.,2,ORD00016,KFC
+REV00995,Customer_995,Good service but the food quality was average.,1,ORD00071,Burger King
+REV00996,Customer_996,The food was excellent and delivered on time.,1,ORD00074,Burger King
+REV00997,Customer_997,Terrible experience! food was cold and delivery was late.,4,ORD00021,Dpmino's
+REV00998,Customer_998,"The delivery was on time, but the packaging was poor.Horrible experience! Will not recommend.",3,ORD00096,Dpmino's
+REV00999,Customer_999,Not setisfied with the delivery time. Food was okay.,1,ORD00056,Burger King
+REV01000,Customer_1000,Terrible experience! food was cold and delivery was late.,2,ORD00022,Dpmino's
